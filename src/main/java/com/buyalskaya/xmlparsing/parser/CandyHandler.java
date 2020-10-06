@@ -5,13 +5,14 @@ import com.buyalskaya.xmlparsing.entity.CandyType;
 import com.buyalskaya.xmlparsing.entity.candyparameter.CandyParameter;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;
 
 import java.util.*;
 
 public class CandyHandler extends DefaultHandler {
-    private static final org.apache.logging.log4j.Logger logger = LogManager.getLogger();
+    private static final Logger logger = LogManager.getLogger();
     private Set<Candy> candies;
     private Candy current;
     private CandyParameter currentParameter;
@@ -26,11 +27,10 @@ public class CandyHandler extends DefaultHandler {
 
     public void startElement(String uri, String localName, String qName, Attributes attributes) {
         if (qName != null && !qName.isEmpty()) {
-            if (Arrays.stream(CandyType.values())
-                    .anyMatch(c -> c.getCandyType().equalsIgnoreCase(qName))) {
-                String attributeName;
-                CandyType candyType=CandyType.findEnumParameterByString(qName).get();
-                current=candyType.get();
+            Optional<CandyType> candyType = CandyType.findEnumParameterByString(qName);
+            String attributeName;
+            if (candyType.isPresent()) {
+                current = candyType.get().get();
                 Optional<CandyParameter> candyParameter;
                 for (int i = 0; i < attributes.getLength(); i++) {
                     attributeName = attributes.getQName(i);
