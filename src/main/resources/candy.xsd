@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/candies"
+        xmlns:tns="http://www.example.com/candies"
+        elementFormDefault="qualified">
+    <element name="candy" type="tns:Candy" abstract="true"/>
+    <element name="caramel" type="tns:Caramel" substitutionGroup="tns:candy"/>
+    <element name="chocolate-candy" type="tns:ChocolateCandy" substitutionGroup="tns:candy"/>
+    <element name="candies">
+        <complexType>
+            <sequence>
+                <element ref="tns:candy" minOccurs="2" maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+    <complexType name="Candy">
+        <sequence>
+            <element name="value" type="tns:Value"/>
+            <element name="energy" type="nonNegativeInteger"/>
+            <element name="production-date" type="date"/>
+            <element name="production" default="Kommunarka">
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="Kommunarka"></enumeration>
+                        <enumeration value="Spartak"></enumeration>
+                        <enumeration value="Roshen"></enumeration>
+                    </restriction>
+                </simpleType>
+            </element>
+        </sequence>
+        <attribute name="id" use="required">
+            <simpleType>
+                <restriction base="ID">
+                    <pattern value="N\d{1,10}"/>
+                </restriction>
+            </simpleType>
+        </attribute>
+        <attribute name="name" use="optional" default="Candy">
+            <simpleType>
+                <restriction base="string">
+                    <pattern value="([\d\w])+(\s[\d\w]+)*"/>
+                </restriction>
+            </simpleType>
+        </attribute>
+    </complexType>
+    <complexType name="Caramel">
+        <complexContent>
+            <extension base="tns:Candy">
+                <sequence>
+                    <element name="type-caramel" type="tns:TypeCaramel"/>
+                    <element name="caramel-ingredients" type="tns:CaramelIngredients"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+    <complexType name="ChocolateCandy">
+        <complexContent>
+            <extension base="tns:Candy">
+                <sequence>
+                    <element name="chocolate-type" type="tns:ChocolateType"/>
+                    <element name="filling-type" type="tns:FillingType"/>
+                    <element name="chocolate-candy-ingredients" type="tns:ChocolateCandyIngredients"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+    <complexType name="Value">
+        <sequence>
+            <element name="proteins" type="nonNegativeInteger"/>
+            <element name="fats" type="nonNegativeInteger"/>
+            <element name="carbohydrates" type="nonNegativeInteger"/>
+        </sequence>
+    </complexType>
+    <complexType name="CaramelIngredients">
+        <sequence>
+            <element name="sugar" type="nonNegativeInteger"/>
+            <element name="vanilla" type="nonNegativeInteger"/>
+            <element name="fructose" type="nonNegativeInteger"/>
+            <element name="molasses" type="nonNegativeInteger"/>
+            <element name="condensed-milk" type="nonNegativeInteger"/>
+            <element name="applesauce" type="nonNegativeInteger"/>
+        </sequence>
+    </complexType>
+    <complexType name="ChocolateCandyIngredients">
+        <sequence>
+            <element name="sugar" type="nonNegativeInteger"/>
+            <element name="vanilla" type="nonNegativeInteger"/>
+            <element name="fructose" type="nonNegativeInteger"/>
+            <element name="butter" type="nonNegativeInteger"/>
+            <element name="cream" type="nonNegativeInteger"/>
+            <element name="pastry-fat">
+                <simpleType>
+                    <restriction base="nonNegativeInteger">
+                        <maxExclusive value="100"/>
+                    </restriction>
+                </simpleType>
+            </element>
+        </sequence>
+    </complexType>
+    <simpleType name="TypeCaramel">
+        <restriction base="string">
+            <enumeration value="Lollipop"></enumeration>
+            <enumeration value="Jelly Beans"></enumeration>
+            <enumeration value="Stuffed caramel"></enumeration>
+        </restriction>
+    </simpleType>
+    <simpleType name="ChocolateType">
+        <restriction base="string">
+            <enumeration value="Milk"></enumeration>
+            <enumeration value="Dark"></enumeration>
+            <enumeration value="Black"></enumeration>
+            <enumeration value="White"></enumeration>
+        </restriction>
+    </simpleType>
+    <simpleType name="FillingType">
+        <restriction base="string">
+            <enumeration value="Toffee"></enumeration>
+            <enumeration value="Truffle"></enumeration>
+            <enumeration value="Waffle"></enumeration>
+            <enumeration value="Grilyazh"></enumeration>
+        </restriction>
+    </simpleType>
+</schema>

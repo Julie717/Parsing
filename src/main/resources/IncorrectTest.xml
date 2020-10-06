@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<candies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://www.example.com/candies"
+         xsi:schemaLocation="http://www.example.com/candies candy.xsd">
+    <caramel id="N1" name="Critters">
+        <value>
+            <proteins>0</proteins>
+            <fats>100</fats>
+            <carbohydrates>98000</carbohydrates>
+        </value>
+        <energy>390</energy>
+        <production-date>2020-05-04</production-date>
+        <production>Kommunarka</production>
+        <caramel-ingredients>
+            <sugar>50000</sugar>
+            <vanilla>2000</vanilla>
+            <fructose>0</fructose>
+            <molasses>0</molasses>
+            <condensed-milk>0</condensed-milk>
+            <applesauce>0</applesauce>
+        </caramel-ingredients>
+    </caramel>
+    <chocolate-candy id="N2" name="Mont Blanc">
+        <value>
+            <proteins>8000</proteins>
+            <fats>40700</fats>
+            <carbohydrates>45300</carbohydrates>
+        </value>
+        <energy>580</energy>
+        <production-date>2020-09-01</production-date>
+        <production>Roshen</production>
+        <chocolate-type>Milk</chocolate-type>
+        <filling-type>Toffee</filling-type>
+        <chocolate-candy-ingredients>
+            <sugar>10000</sugar>
+            <vanilla>0</vanilla>
+            <fructose>0</fructose>
+            <butter>40000</butter>
+            <cream>10000</cream>
+            <pastry-fat>20</pastry-fat>
+        </chocolate-candy-ingredients>
+    </chocolate-candy>
+    <chocolate-candy id="N3">
+        <value>
+            <proteins>10000</proteins>
+            <fats>37000</fats>
+            <carbohydrates>50000</carbohydrates>
+        </value>
+        <energy>497</energy>
+        <production-date>2020-05-27</production-date>
+        <production></production>
+        <chocolate-type>Dark</chocolate-type>
+        <filling-type>Truffle</filling-type>
+        <chocolate-candy-ingredients>
+            <sugar>9000</sugar>
+            <vanilla>2</vanilla>
+            <fructose>0</fructose>
+            <butter>30000</butter>
+            <cream>0</cream>
+            <pastry-fat>25</pastry-fat>
+        </chocolate-candy-ingredients>
+    </chocolate-candy>
+</candies>

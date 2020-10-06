@@ -1,0 +1,343 @@
+2020-10-03 21:57:18 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - Validation isn't valid
+2020-10-03 21:57:45 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - Validation isn't validschema_reference.4: Failed to read schema document 'file:/D:/Courses%20Java/Parsing/candy.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+2020-10-03 22:02:03 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid schema_reference.4: Failed to read schema document 'file:/D:/Courses%20Java/Parsing/candy.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+2020-10-03 22:02:14 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid. File name or schema name is null or empty
+2020-10-03 22:02:14 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid Content is not allowed in prolog.
+2020-10-03 22:02:50 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid. File name or schema name is null or empty
+2020-10-03 22:04:47 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid Content is not allowed in prolog.
+2020-10-03 22:05:41 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid schema_reference.4: Failed to read schema document 'file:/D:/Courses%20Java/Parsing/candy.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+2020-10-03 22:05:45 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid schema_reference.4: Failed to read schema document 'file:/D:/Courses%20Java/Parsing/candy.xsdyy', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+2020-10-03 22:09:47 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:10:16 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:10:33 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:10:54 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:12:45 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:13:38 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:14:01 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:14:49 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '2'.
+2020-10-03 22:17:33 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:17:48 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:18:10 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:18:25 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:18:41 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:19:17 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:19:30 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid s4s-elt-character: Non-whitespace characters are not allowed in schema elements other than 'xs:appinfo' and 'xs:documentation'. Saw '0'.
+2020-10-03 22:19:55 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-03 22:20:13 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-03 22:30:25 [main] WARN  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file or schema aren't found
+2020-10-03 22:30:44 [main] WARN  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file or schema aren't found
+2020-10-03 22:30:52 [main] WARN  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file or schema aren't found
+2020-10-03 22:31:24 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:21:32 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:23:21 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:23:45 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:24:05 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:24:17 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:25:07 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:30:41 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:31:00 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:31:33 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:35:23 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:35:53 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 21:36:13 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-04 23:06:06 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:06:37 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:07:00 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:07:41 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:10:04 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:10:20 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:20:58 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:20:58 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:20:58 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:20:58 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:20:58 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:20:58 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:21:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:21:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:21:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:21:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:21:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:21:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:43 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:57 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:57 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:57 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:57 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:57 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:22:57 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:03 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:03 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:03 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:03 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:03 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:03 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:19 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:19 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:19 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:19 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:19 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:19 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:59 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:59 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:59 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:59 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:59 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-04 23:23:59 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Candy parameter isn't added
+2020-10-05 13:03:07 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 13:15:00 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 13:17:00 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\gh.xml (Не удается найти указанный файл)
+2020-10-05 13:17:20 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\ghsfdv (Не удается найти указанный файл)
+2020-10-05 13:17:36 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 14:58:16 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 14:59:04 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:00:51 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:01:04 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:01:47 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:02:22 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:04:07 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:05:09 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:05:20 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:06:01 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:06:20 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:08:13 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:08:25 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:09:33 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:10:32 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:11:01 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:11:50 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:14:07 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:14:51 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:15:41 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:16:42 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:16:57 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:17:15 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:19:18 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:21:22 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:21:44 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:22:18 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:22:33 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:22:59 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:24:20 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:25:08 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:27:13 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:27:38 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:27:48 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:28:01 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:28:17 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:29:03 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:29:30 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:30:03 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:30:24 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:30:42 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:31:33 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:31:46 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:31:58 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:32:26 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:32:46 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:33:30 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 15:33:58 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:15:42 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:16:11 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:16:47 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:17:03 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:17:32 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:17:55 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:18:15 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:18:30 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:18:49 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:18:59 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:19:17 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:19:43 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:19:53 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:20:39 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:22:10 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:22:53 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:23:03 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:23:25 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:23:43 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:23:51 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:24:17 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:24:36 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:24:47 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:25:03 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:25:22 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:25:41 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:26:07 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:26:16 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:26:30 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.i: The content of element 'candies' is not complete. '"http://www.example.com/candies":candy' is expected to occur a minimum of '2' times. One more instance is required to satisfy this constraint.
+2020-10-05 16:26:49 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:33:03 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:33:21 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:33:59 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:34:28 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:38:58 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 16:42:49 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:11:12 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:15:46 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:16:16 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.d: Invalid content was found starting with element 'applesauce'. No child element is expected at this point.
+2020-10-05 17:27:24 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:27:46 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:28:07 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:28:22 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:28:33 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:29:02 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:29:23 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:29:42 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:30:39 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:31:11 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:33:17 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 17:36:22 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:01:39 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:11:38 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:12:10 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:12:23 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:13:04 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:21:03 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:24:58 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:24:58 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\candyChocolate.xml (Не удается найти указанный файл)
+2020-10-05 18:25:22 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-05 18:25:22 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\candyChocolate.xml (Не удается найти указанный файл)
+2020-10-06 11:15:59 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:15:59 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\candyChocolate.xml (Не удается найти указанный файл)
+2020-10-06 11:16:06 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:16:44 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:19:16 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:19:32 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:19:38 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:19:47 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:19:57 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:23:05 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-pattern-valid: Value '1' is not facet-valid with respect to pattern 'ID\d{1,10}' for type '#AnonType_idCandy'.
+2020-10-06 11:24:11 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-pattern-valid: Value '1' is not facet-valid with respect to pattern 'ID\d{1,10}' for type '#AnonType_idCandy'.
+2020-10-06 11:25:01 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-pattern-valid: Value '1' is not facet-valid with respect to pattern 'ID\d{1,10}' for type '#AnonType_idCandy'.
+2020-10-06 11:26:07 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:29:16 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:30:39 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:31:11 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:31:44 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-id.2: There are multiple occurrences of ID value 'N2'.
+2020-10-06 11:31:54 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:33:05 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:38:23 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:38:52 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-pattern-valid: Value '' is not facet-valid with respect to pattern '([\d\w])+(\s[\d\w]+)*' for type '#AnonType_nameCandy'.
+2020-10-06 11:39:00 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:39:16 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.a: Invalid content was found starting with element '{"http://www.example.com/candies":filling-type}'. One of '{"http://www.example.com/candies":chocolate-type}' is expected.
+2020-10-06 11:39:27 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.a: Invalid content was found starting with element '{"http://www.example.com/candies":chocolate-type}'. One of '{"http://www.example.com/candies":production}' is expected.
+2020-10-06 11:39:36 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:43:25 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:43:25 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:43:25 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:44:23 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:44:23 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:44:23 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:46:38 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:46:38 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:46:39 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:46:50 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:46:50 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:46:50 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:47:19 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:47:19 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:47:19 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:47:40 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:47:40 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:47:40 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:47:57 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:47:58 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:47:58 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:48:11 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:48:12 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:48:12 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:48:38 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:48:38 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:48:38 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:49:04 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:49:04 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:49:04 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:49:37 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:49:37 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:49:37 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:50:07 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:50:07 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:50:07 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:51:23 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:51:23 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 11:51:23 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 11:51:23 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 11:51:47 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.a: Invalid content was found starting with element '{"http://www.example.com/candies":chocolate-type}'. One of '{"http://www.example.com/candies":production}' is expected.
+2020-10-06 11:52:02 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-datatype-valid.1.2.1: '' is not a valid value for 'date'.
+2020-10-06 11:53:55 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 11:54:22 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid Open quote is expected for attribute "name" associated with an  element type  "chocolate-candy".
+2020-10-06 11:54:28 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-pattern-valid: Value '' is not facet-valid with respect to pattern '([\d\w])+(\s[\d\w]+)*' for type '#AnonType_nameCandy'.
+2020-10-06 11:54:36 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:02:32 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.a: Invalid content was found starting with element '{"http://www.example.com/candies":chocolate-type}'. One of '{"http://www.example.com/candies":production}' is expected.
+2020-10-06 12:02:41 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:02:41 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 12:02:42 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 12:02:42 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:04:09 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration '[Kommunarka, Spartak, Roshen]'. It must be a value from the enumeration.
+2020-10-06 12:04:26 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:04:26 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 12:04:26 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 12:04:26 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:05:57 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:05:58 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 12:05:58 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 12:05:58 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:12:28 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:12:28 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 12:12:28 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 12:12:28 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:12:55 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:12:55 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 12:12:55 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 12:12:55 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:14:59 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:14:59 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 12:14:59 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 12:14:59 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:15:51 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:15:51 [main] WARN  com.buyalskaya.xmlparsing.parser.CandyHandler - Parameter production isn't added
+2020-10-06 12:15:51 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyDomBuilder - Parameter production isn't added
+2020-10-06 12:15:51 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:16:42 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:16:42 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:17:36 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:17:36 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:21:28 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:21:28 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.a: Invalid content was found starting with element '{"http://www.example.com/candies":caramel-ingredients}'. One of '{"http://www.example.com/candies":type-caramel}' is expected.
+2020-10-06 12:21:28 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\candyChocolate.xml (Не удается найти указанный файл)
+2020-10-06 12:22:38 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:22:38 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.a: Invalid content was found starting with element '{"http://www.example.com/candies":caramel-ingredients}'. One of '{"http://www.example.com/candies":type-caramel}' is expected.
+2020-10-06 12:22:38 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\candyChocolate.xml (Не удается найти указанный файл)
+2020-10-06 12:22:39 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:22:39 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.a: Invalid content was found starting with element '{"http://www.example.com/candies":caramel-ingredients}'. One of '{"http://www.example.com/candies":type-caramel}' is expected.
+2020-10-06 12:22:39 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\candyChocolate.xml (Не удается найти указанный файл)
+2020-10-06 12:56:28 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:56:28 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:56:33 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:56:33 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 12:56:48 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 12:56:48 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 13:19:35 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:19:35 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 13:20:39 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:20:39 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 13:20:52 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:20:52 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 13:21:06 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:21:06 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 13:22:04 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:22:04 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 13:23:23 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:26:08 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:26:08 [main] WARN  buyalskaya.xmlparsing.parser.impl.CandyStaxBuilder - Parameter production isn't added
+2020-10-06 13:29:53 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:30:37 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:31:09 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:36:38 [main] INFO  com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file is valid
+2020-10-06 13:36:38 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid cvc-complex-type.2.4.a: Invalid content was found starting with element '{"http://www.example.com/candies":caramel-ingredients}'. One of '{"http://www.example.com/candies":type-caramel}' is expected.
+2020-10-06 13:36:38 [main] ERROR com.buyalskaya.xmlparsing.validator.XmlFileValidator - XML file isn't valid D:\Courses Java\Parsing\candyChocolate.xml (Не удается найти указанный файл)
